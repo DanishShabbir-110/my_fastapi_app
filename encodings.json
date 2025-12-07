@@ -1,0 +1,49 @@
+{
+  "3970": {
+    "timestamp": 1696118400,
+    "class": "AI-A",
+    "role": "Student",
+    "encodings": ["-1.0", "1.0"]
+  },
+  "0173": {
+    "timestamp": 1696204800,
+    "class": "AI-A",
+    "role": "Student",
+    "encodings": ["0.0", "1.0", "-1.0", "0.5"]
+  },
+  "1234": {
+    "timestamp": 1696291200,
+    "class": "AI-A",
+    "role": "Student",
+    "encodings": ["1.0", "-1.0", "0.0"]
+  },
+  "5678": {
+    "timestamp": 1696377600,
+    "class": "AI-A",
+    "role": "Student",
+    "encodings": ["-0.5", "0.5", "1.0"]
+  },
+  "9101": {
+    "timestamp": 1696464000,
+    "class": "AI-B",
+    "role": "Student",
+    "encodings": ["0.25", "-0.75", "0.5"]
+  },
+  "1121": {
+    "timestamp": 1696550400,
+    "class": "AI-B",
+    "encodings": ["-0.1", "0.1", "0.9"]
+  },
+  "3141": {
+    "timestamp": 1696636800,
+    "class": "AI-B",
+    "role": "Student",
+    "encodings": ["0.33", "-0.33", "0.66"]
+  },
+  "5161": {
+    "timestamp": 1696723200,
+    "class": "--",
+    "role": "Teacher",
+    "encodings": ["-0.66", "0.66", "0.0"]
+  }
+}

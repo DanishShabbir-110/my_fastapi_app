@@ -1,0 +1,29 @@
+
+Image: 23
+// Danish, Haseeb, Basit
+// 3970, 0173, 1234
+
+1: 3970 [1,2] -- 2 
+2: 3970 [1,2] -- 2
+
+12/7/2025 - 8:00 AM - 9:00 AM
+
+12: ["-1.0", "1.0"]
+
+12 - Encodings 
+1-1 , 1-2 - P X -- P
+2-1 , 2-2 - A P -- P
+3-1 , 3-2 
+
+9/12 == 
+
+12/7/2025 - 8:00 AM - 9:00 AM - AI-A
+Query DB: AI-A - [3970, 0173, 1234]
+
+12- Images In Total for 8:00 AM - 9:00 AM - AI-A
+1 | TID | SID | VID | 
+1: Face Recognoition - 12
+
+3
+
+
